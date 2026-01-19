@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/siswa';
+const API_URL = '/api/siswa';
 
 document.addEventListener('DOMContentLoaded', loadData);
 
